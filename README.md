@@ -46,6 +46,7 @@ NewsEra/
    npm start
 
 5. The application will open in your browser.
+
    API Used
    
 News API
