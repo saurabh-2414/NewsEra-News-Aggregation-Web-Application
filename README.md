@@ -27,11 +27,10 @@ NewsEra/
 │
 ├── public/
 ├── src/
-├── App.js
-├── index.js
+├── .gitignore
 ├── package.json
+├── package-lock.json
 └── README.md
-
 
 ## How to Run the Project
 
