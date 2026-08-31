@@ -36,7 +36,7 @@ NewsEra/
 ## How to Run the Project
 
 1. Clone the repository:
-  git clone https://github.com/saurabh-2414/newsEra
+  git clone https://github.com/saurabh-2414/NewsEra-News-Aggregation-Web-Application/
 
 2. Open the project folder in Visual Studio Code.
 
